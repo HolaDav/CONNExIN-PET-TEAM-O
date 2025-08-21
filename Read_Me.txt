@@ -7,7 +7,7 @@ Team Lead
 David Oladeji - Radiography student, University of Lagos, Nigeria
 
 Team Members
-[Add your name here] - [Add your Affiliation here]
+Akongnui Afungchwi Emmanuel - Medical student at Faculty of Medicine and Biomedical Sciences, University of Yaoundé 1, Cameroon
 [Add your name here] - [Add your Affiliation here]
 [Add your name here] - [Add your Affiliation here]
 [Add your name here] - [Add your Affiliation here]
