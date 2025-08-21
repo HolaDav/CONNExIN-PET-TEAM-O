@@ -10,5 +10,5 @@ Team Members
 Akongnui Afungchwi Emmanuel - Medical student at Faculty of Medicine and Biomedical Sciences, University of Yaoundé 1, Cameroon
 Eyamu Emuron Joel - Korea Institute of Oriental Medicine, University of Science and Technology, Daejeon, South Korea
 Hannah Nyambura Kamau - University of Nairobi, Kenya
-[Babari a babari michelle freddia] - [microbiologist,universsity of yaounde 1,cameroun]
+Babari a babari michelle freddia - microbiologist,universsity of yaounde 1,cameroun
 [Add your name here] - [Add your Affiliation here]
