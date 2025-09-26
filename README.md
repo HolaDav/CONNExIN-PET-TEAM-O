@@ -86,7 +86,10 @@ dataset/                          # Created by pipeline
 │   ├── preprocessed/            # Processed data
 │   └── analysis/                # Analysis outputs
 └── dataset_description.json     # BIDS metadata
-Configuration
+
+<img width="301" height="231" alt="Screenshot 2025-09-26 193618" src="https://github.com/user-attachments/assets/bb59f750-fb8b-4230-834b-b3e5782f448a" />
+
+## Configuration
 Subject List Format
 Edit sub_list to include your subject identifiers:
 
